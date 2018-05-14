@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitTrivia
+Comment=BitTrivia P2P Cryptocurrency
+Comment[fr]=BitTrivia, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BitTrivia, eşten eşe kriptografik sanal para birimi
+Exec=bittrivia-qt %u
+Terminal=false
+Type=Application
+Icon=bittrivia128
+MimeType=x-scheme-handler/bittrivia;
+Categories=Office;Finance;

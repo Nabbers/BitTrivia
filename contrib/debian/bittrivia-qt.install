@@ -1,0 +1,6 @@
+usr/local/bin/bittrivia-qt usr/bin
+share/pixmaps/bittrivia32.xpm usr/share/pixmaps
+share/pixmaps/bittrivia16.xpm usr/share/pixmaps
+share/pixmaps/bittrivia128.png usr/share/pixmaps
+debian/bittrivia-qt.desktop usr/share/applications
+debian/bittrivia-qt.protocol usr/share/kde4/services/

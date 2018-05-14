@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bittrivia_bg.qm</file>
+        <file alias="de">locale/bittrivia_de.qm</file>
+        <file alias="en">locale/bittrivia_en.qm</file>
+        <file alias="es">locale/bittrivia_es.qm</file>
+        <file alias="fi">locale/bittrivia_fi.qm</file>
+        <file alias="fr">locale/bittrivia_fr.qm</file>
+        <file alias="it">locale/bittrivia_it.qm</file>
+        <file alias="ja">locale/bittrivia_ja.qm</file>
+        <file alias="pl">locale/bittrivia_pl.qm</file>
+        <file alias="pt">locale/bittrivia_pt.qm</file>
+        <file alias="ru">locale/bittrivia_ru.qm</file>
+        <file alias="sk">locale/bittrivia_sk.qm</file>
+        <file alias="sv">locale/bittrivia_sv.qm</file>
+        <file alias="vi">locale/bittrivia_vi.qm</file>
+        <file alias="zh_CN">locale/bittrivia_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bittrivia_zh_TW.qm</file>
+    </qresource>
+</RCC>
